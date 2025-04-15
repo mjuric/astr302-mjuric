@@ -2,3 +2,4 @@
 
 We’re practicing git here!
 
+Adding some new text.
